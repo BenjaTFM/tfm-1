@@ -133,3 +133,6 @@ dmypy.json
 /parking-lot-detection/PUC
 /parkingslot-master/images
 /parkingslot-master/assets
+/parkingslot-master/kangaroo-transfer-learning/kangaroo
+/parkingslot-master/virtualenv/
+/parkingslot-master/samples/shapes/logdir
