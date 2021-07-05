@@ -140,4 +140,4 @@ dmypy.json
 /parkingslot-master/samples/shapes/logdir
 
 #model
-/parkingslot-master/*.h5
+/parkingslot-master/mask_rcnn_coco.h5
