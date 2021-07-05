@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# images
+/parking-lot-detection/PUC
+/parkingslot-master/images
+/parkingslot-master/assets
