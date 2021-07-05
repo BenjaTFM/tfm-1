@@ -104,6 +104,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
+/parkingslot-master/virtualenv/
 env/
 venv/
 ENV/
@@ -130,9 +131,13 @@ dmypy.json
 
 
 # images
+*.jpg
+*.xml
+*.png
 /parking-lot-detection/PUC
 /parkingslot-master/images
 /parkingslot-master/assets
-/parkingslot-master/kangaroo-transfer-learning/kangaroo
-/parkingslot-master/virtualenv/
 /parkingslot-master/samples/shapes/logdir
+
+#model
+/parkingslot-master/*.h5
